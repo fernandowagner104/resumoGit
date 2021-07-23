@@ -6,7 +6,7 @@
   - **git config --global user.name "nome"**: configuração do usuário para o repositório
 
 - **git add "nome arquivo": irá adicionar o "nome arquivo"** para a staged area.
-- **git add *** e **git add .** : irá adicionar todos os arquivos dentro do repositório para a staged area.
+- * *git add * ** e **git add .** : irá adicionar todos os arquivos dentro do repositório para a staged area.
 - **git commit -m "mensagem"**: irá efetivar todas as alterações, criando um "Produto final".
 - **git remote add origin "Endereço http do repositório"**: irá linkar o repositório GitHub ao repositório local.
 - **git push origin master**: irá enviar  os arquivos/modificações para o repositório remoto.

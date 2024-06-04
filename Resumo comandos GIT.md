@@ -1,4 +1,4 @@
-# Resumo comandos git:computer:
+# Resumo comandos git
 - **git config init.defaultBranch**: retorna o nome da nossa branch padrão.
 - **git config --global init.defaultBranch nome_alterado**: altera **globalmente** o nome da branch padrão para **nome_alterado**.
   

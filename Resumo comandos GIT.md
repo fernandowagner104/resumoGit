@@ -1,5 +1,6 @@
 # Resumo comandos git:computer:
-
+- **git config init.defaultBranch**: retorna o nome da nossa branch padrão.
+  
 - **git init**: inicia um repositório.
 - Primeira vez que for usar o repositório:
   - **git config --global user.email "nome@email.com"** :  configuração do email para o repositório

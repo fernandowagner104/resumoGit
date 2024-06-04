@@ -1,5 +1,6 @@
 # Resumo comandos git:computer:
 - **git config init.defaultBranch**: retorna o nome da nossa branch padrão.
+- **git config init.defaultBranch nome_alterado**: altera o nome da branch padrão para **nome_alterado**
   
 - **git init**: inicia um repositório.
 - Primeira vez que for usar o repositório:

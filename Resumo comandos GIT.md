@@ -1,11 +1,11 @@
 # Resumo comandos git:computer:
 - **git config init.defaultBranch**: retorna o nome da nossa branch padrão.
-- **git config init.defaultBranch nome_alterado**: altera o nome da branch padrão para **nome_alterado**
+- **git config init.defaultBranch nome_alterado**: altera o nome da branch padrão para **nome_alterado**.
   
 - **git init**: inicia um repositório.
 - Primeira vez que for usar o repositório:
-  - **git config --global user.email "nome@email.com"** :  configuração do email para o repositório
-  - **git config --global user.name "nome"**: configuração do usuário para o repositório
+  - **git config --global user.email "nome@email.com"** :  configuração do email para o repositório.
+  - **git config --global user.name "nome"**: configuração do usuário para o repositório.
 
 - **git add "nome arquivo": irá adicionar o "nome arquivo"** para a staged area.
 - git add * e **git add .** : irá adicionar todos os arquivos dentro do repositório para a staged area.

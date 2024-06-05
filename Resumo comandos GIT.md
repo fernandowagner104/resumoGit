@@ -2,8 +2,9 @@
 - **git config init.defaultBranch**: retorna o nome da nossa branch padrão.
 - **git config --global init.defaultBranch nome_alterado**: altera **globalmente** o nome da branch padrão para **nome_alterado**.
 - **git config --global credential.helper cache**: salva temporariamente as credenciais **(nome do usuário e token)** na nossa máquina no escopo global.
-- **git config --global credential.helper**: retorna o valor armazenado em **credential.helper**.
+- **git config --global credential.helper**: retorna o valor armazenado na variável de configuração **credential.helper**.
 - **git config --global credential.helper store**: salva permanentemente as credenciais **(nome do usuário e token)** na nossa máquina no escopo global.
+- **git config --global --show-origin credential.helper**: retorna o caminho no computador onde a variável de configuração **credential.helper** está localizada.
   
 - **git init**: inicia um repositório.
 - Primeira vez que for usar o repositório:

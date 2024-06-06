@@ -1,6 +1,6 @@
 # Comandos Git
 
-Seja bem vindo ao meu repositiório de comandos Git :computer:
+Seja bem vindo ao meu repositório de comandos Git :computer:
 
 O objetivo desse repositório é ser utilizado para consultas, estudos e atualizações de comandos git.
 

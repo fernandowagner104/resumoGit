@@ -5,6 +5,8 @@
 - **git config --global credential.helper**: retorna o valor armazenado na variável de configuração **credential.helper**.
 - **git config --global credential.helper store**: salva permanentemente as credenciais **(nome do usuário e token)** na nossa máquina no escopo global.
 - **git config --global --show-origin credential.helper**: retorna o caminho no computador onde a variável de configuração **credential.helper** está localizada.
+- **git status**: mostra o status do nosso repositório git.
+- **touch README.md**: cria um arquivo README com a extensão md.
   
 - **git init**: inicia um repositório.
 - Primeira vez que for usar o repositório:

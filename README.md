@@ -5,6 +5,7 @@ Fique a vontade para utilizar, copiar e compartilhar as informações contidas a
 ## Branch
 - **git config init.defaultBranch**: retorna o nome da nossa branch padrão.
 - **git config --global init.defaultBranch nome_alterado**: altera **globalmente** o nome da branch padrão para **nome_alterado**.
+- - **git checkout nome_branch**: altera para a branch **nome_branch**.
 ## Credential
 - **git config --global credential.helper cache**: salva temporariamente as credenciais **(nome do usuário e token)** na nossa máquina no escopo global.
 - **git config --global credential.helper**: retorna o valor armazenado na variável de configuração **credential.helper**.

@@ -20,8 +20,8 @@ Fique a vontade para utilizar, copiar e compartilhar as informações contidas a
 - git add * e **git add .** : irá adicionar todos os arquivos dentro do repositório para a staged area.
 - **git commit -m "mensagem"**: irá efetivar todas as alterações, criando um "Produto final".
 - **git remote add origin "Endereço http do repositório"**: irá linkar o repositório GitHub ao repositório local.
-- **git push origin master**: irá enviar  os arquivos/modificações para o repositório remoto.
-- **git pull origin master**: irá pegar todos os arquivos/modificações do repositório remoto e enviar para o repositório local.
+- **git push origin nome_branch**: irá enviar  os arquivos/modificações para o repositório remoto.
+- **git pull origin nome_branch**: irá pegar todos os arquivos/modificações do repositório remoto e enviar para o repositório local.
 ## Other commands
 - **git clone "Endereço http do repositório"**: irá enviar para a máquina local, todo um repositório.  Dessa forma, o repositório já vem configurado para o uso git.
 - **git status**: mostra o status do nosso repositório git.

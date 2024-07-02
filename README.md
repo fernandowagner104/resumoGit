@@ -27,3 +27,4 @@ Fique a vontade para utilizar, copiar e compartilhar as informações contidas a
 - **git clone "Endereço http do repositório"**: irá enviar para a máquina local, todo um repositório.  Dessa forma, o repositório já vem configurado para o uso git.
 - **git status**: mostra o status do nosso repositório git.
 - **touch nome-arquivo.xxx**: cria um arquivo nome-arquivo com a extensão xxx.
+- comando **--force**: força a execução de um determinado comando.
